@@ -87,4 +87,4 @@ Map in the Satellite mode
 
 
 ![map popup marker](https://user-images.githubusercontent.com/23488019/151729939-42cfcd73-e23f-4d7b-98b5-bcaf49818cb5.png)
-Map has added popup markers that are displayed when clicked on the earthwuake location
+Map has added popup markers that are displayed when clicked on the earthquake location
