@@ -78,3 +78,13 @@ Using the knowledge of JavaScript and Leaflet.js we will add a third map style t
 - All the earthquake data and tectonic plate data are displayed on all the maps of the webpage. 
 
 ![del3](https://user-images.githubusercontent.com/23488019/151729669-05a5f976-132e-42c6-a5ee-0036e85ae9dd.png)
+Map in the dark mode
+
+
+
+![extra map](https://user-images.githubusercontent.com/23488019/151729797-de1ddf04-44f8-4fb7-8344-f9d017a7f9cb.png)
+Map in the Satellite mode
+
+
+![map popup marker](https://user-images.githubusercontent.com/23488019/151729939-42cfcd73-e23f-4d7b-98b5-bcaf49818cb5.png)
+Map has added popup markers that are displayed when clicked on the earthwuake location
